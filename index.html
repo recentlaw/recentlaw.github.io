@@ -2,65 +2,7 @@
 layout: ashley
 title: Recent-Law
 ---
-<!-- Preloader -->
-<div id="preloader">
-  <div id="status">
-    <img src="images/theme-pics/loader.gif" alt=""/><h1 class="noSubtitle">Welcome home</h1>
-  </div>
-</div>
-<!-- Preloader -->
-<!-- Primary Page Layout
-================================================== -->
-<!-- globalWrapper -->
-<div id="globalWrapper" class="localscroll">
-  <!-- header -->
-  <header id="mainHeader" class="navbar-fixed-top" role="banner">
-    <div class="container">
-      <nav class="navbar navbar-default scrollMenu" role="navigation">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-          <a class="navbar-brand" href="index-fullscreen.html"><img src="images/main-logo.png" alt="Ashley website template"/></a> </div>
-          <div class="collapse navbar-collapse navbar-ex1-collapse" id="scrollTarget">
-            <ul class="nav navbar-nav pull-right">
-              <li class="active"><a href="#homeFullScreen"><i class="icon-home-outline"></i>Home</a> </li>
-              <li><a href="#about"><i class="icon-star"></i>About</a> </li>
-              <li><a href="#services"><i class="icon-thumbs-up"></i>Services</a> </li>
-              <li><a href="#works"><i class="icon-popup-1"></i>Works</a> </li>
-              <li><a href="#team"><i class="icon-users"></i>Team</a> </li>
-              <li><a href="#contactSlice"><i class="icon-mail"></i>Contact</a> </li>
-            </ul>
-          </div>
-
-        </nav>
-      </div>
-    </header>
-    <!-- header -->
-    <!-- content -->
-    <section id="homeFullScreen" data-stellar-background-ratio="0.5">
-      <div class="maskParent" >
-        <div class="paralaxMask"></div>
-        <div id="fullScreenSliderWrapper">
-          <div id="logoBig">
-            <img class="img-responsive" src="images/main-logo-big.png" alt="Little Neko Ashley Bootstrap 3 Parallax One Page" />
-          </div>
-
-          <div class="flexslider" id="flexHome">
-            <ul class="slides">
-              <li>
-                <h1>Hello, this is Ashley</h1>
-              </li>
-              <li>
-                <h1>Modern and Creative</h1>
-              </li>
-              <li>
-                <h1>Mobile first design</h1>
-              </li>
-            </ul>
-          </div>
-          <a href="#about" class="homeBtn btn"><i class="icon-down"></i>learn more</a>
-        </div>
-      </div>
-    </section>
+    {% include banner.html %}
     <!-- about us -->
     <section class="slice noPaddingBottom" id="about">
       <div class="container">
@@ -650,7 +592,3 @@ title: Recent-Law
         </div>
       </section>
       <!-- End footer -->
-    </div>
-    <!-- global wrapper -->
-<!-- End Document
-================================================== -->
