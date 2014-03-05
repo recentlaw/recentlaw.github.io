@@ -1,3 +1,6 @@
-name: Your New Jekyll Site
+name: Recent-Law
 markdown: redcarpet
-pygments: true
+highlighter: pygments
+sass:
+    style: expanded
+    deploy_style: compressed
