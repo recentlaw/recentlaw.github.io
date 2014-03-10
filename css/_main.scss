@@ -1,4 +1,4 @@
-/* 
+/*
     Document   : colors
     Author     : Little Neko
     Description: template colors
@@ -12,8 +12,8 @@
 #TYPOGRAPHY
 #LINKS AND BUTTONS
 #HEADER
-#MAIN MENU 
-#FOOTER 
+#MAIN MENU
+#FOOTER
 #SLIDERS
 #PORTFOLIO
 #MISCELANIOUS
@@ -25,9 +25,9 @@
 ================================================== */
 
 /** tabs **/
-.panel-default>.panel-heading {background:#C2824F; }
+.panel-default>.panel-heading {background:$main-color; }
 .panel-default>.panel-heading:hover {background:#fff; }
-.panel-default>.panel-heading:hover a {color:#C2824F; }
+.panel-default>.panel-heading:hover a {color:$main-color; }
 .panel-title>a {color:#fff;}
 .panel-title>a:hover {text-decoration: none;}
 
@@ -38,49 +38,49 @@
 ================================================== */
 
 body {
-	color:#777;
-	background: #fff;
+  color:#777;
+  background: #fff;
 }
 
 blockquote small {
-	color:inherit;
+  color:inherit;
 }
 h1, h2, h3, h4, h5, h6 {
-	color:#222;
+  color:#222;
 }
 h2 {
- color:#888;	
+ color:#888;
 }
 h2 i {color:#999}
 h2.subTitle:after, h1.noSubtitle:after{
-	background-color:#C2824F;
+  background-color:$main-color;
 }
 
 /*** parallax sections ***/
 
 .paralaxText blockquote:before, .paralaxText blockquote:after {
-	color:#fff;
+  color:#fff;
 }
 #home, #paralaxSlice1, #paralaxSlice2, #paralaxSlice3, #paralaxSlice4 {
-	background-color:#C2824F;
+  background-color:$main-color;
 }
 #home {
-	background-image:url('../images/theme-pics/paralax-orange-3.jpg');
+  background-image: $home-image;
 }
 #paralaxSlice1 {
-	background-image: url('../images/theme-pics/paralax-1.jpg');
+  background-image: $paralax-slice-1;
 }
 #paralaxSlice2 {
-	background-image: url('../images/theme-pics/paralax-grey-2.jpg');
+  background-image: $paralax-slice-2;
 }
 #paralaxSlice3 {
-	background-image: url('../images/theme-pics/paralax-grey-3.jpg');
+  background-image: $paralax-slice-3;
 }
 #paralaxSlice4 {
-	background-image: url('../images/theme-pics/paralax-4.jpg');
+  background-image: $paralax-slice-4;
 }
 .paralaxText blockquote, .paralaxText h1, .paralaxText h2, .paralaxText h3, .paralaxText p, .paralaxText i{
-	color:#fff;
+  color:#fff;
 }
 
 /* END TYPOGRAPHY
@@ -90,109 +90,109 @@ h2.subTitle:after, h1.noSubtitle:after{
 ================================================== */
 
 a {
-	color:#C2824F;
+  color:$main-color;
 }
 a:hover, .scrollspyNav .active a {
-	color:#C2824F;
+  color:$main-color;
 }
 ul.iconsList li a {
-	color:#555
+  color:#555
 }
 ul.iconsList li a:hover, ul.iconsList i {
-	color:#C2824F
+  color:$main-color;
 }
 
 /*** buttons ***/
 .btn {
-	background:#C2824F;
-	color:#fff;
-	border:2px solid #fff;
+  background:$main-color;
+  color:#fff;
+  border:2px solid #fff;
 }
 .btn:hover {
-	color:#C2824F;
-	border-color:#eee;
-	text-shadow:none;
-	background:#fff
+  color:$main-color;
+  border-color:#eee;
+  text-shadow:none;
+  background:#fff
 }
 .btn-primary {
-	background: #006dcc;
+  background: #006dcc;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary.disabled, .btn-primary[disabled] {
-	background: #555;
+  background: #555;
 }
 .btn-info {
-	background: #49AFCD;
+  background: #49AFCD;
 }
 .btn-success {
-	background: #5BB75B;
+  background: #5BB75B;
 }
 .btn-warning {
-	background: #FAA732;
+  background: #FAA732;
 }
 .btn-danger {
-	background: #DA4F49;
+  background: #DA4F49;
 }
 .btn-link, .btn-link:active, .btn-link[disabled], .btn-link:hover {
-	background:none;
-	border:none;
-	-moz-box-shadow: none;
-	-webkit-box-shadow:none;
-	box-shadow: none;
-	color:#49AFCD;
+  background:none;
+  border:none;
+  -moz-box-shadow: none;
+  -webkit-box-shadow:none;
+  box-shadow: none;
+  color:#49AFCD;
 }
 .btnWrapper {
-	border:1px solid #ccc;
+  border:1px solid #ccc;
 }
 
 /* END LINKS AND BUTTONS
 ================================================== */
 
-/* MAIN MENU 
+/* MAIN MENU
 ================================================== */
 
 #mainHeader{
     background-color: white;
-	-webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
-	-moz-box-shadow: 0 1px 10px rgba(0,0,0,.1);
-	box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 1px 10px rgba(0,0,0,.1);
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
 }
 
 #mainHeader .navbar-inner {
-	background: #444;
-	filter:none !important;
+  background: #444;
+  filter:none !important;
 }
 #mainMenu ul li a, #resMainMenu ul li a {
-	color:#444;
+  color:#444;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	background: #C2824F;
-	color:#fff;
+  background: $main-color;
+  color:#fff;
 }
 
-/* END MAIN MENU 
+/* END MAIN MENU
 ================================================== */
 
-/* FOOTER 
+/* FOOTER
 ================================================== */
 
 footer {
-	color:#777;
-	background:#eee;
-	border-top:1px solid #555s;
+  color:#777;
+  background:#eee;
+  border-top:1px solid #555s;
 }
 
 #footerRights {
-	background-color:#fff;
-	color:#999;
+  background-color:#fff;
+  color:#999;
 }
 p.credits {
-	color:#555;
+  color:#555;
 }
 p.credits a {
-	color:#C2824F;
+  color:$main-color;
 }
 
-/* END FOOTER 
+/* END FOOTER
 ================================================== */
 
 /* HOME
@@ -209,46 +209,46 @@ p.credits a {
 /*** FLEX ***/
 
 .flexslider {
-	box-shadow:none;
+  box-shadow:none;
 }
 .slides .txt div {
-	background:#444;
-	color:#FFFFFF;
+  background:#444;
+  color:#FFFFFF;
 }
 .flexslider .flex-direction-nav a {
-	background-color:#C2824F;
+  background-color:$main-color;
 }
 
 .flexslider .flex-control-paging li a:hover, #sliderWrapper .flex-control-paging li a.flex-active{
-	background: #fff;
-	border:2px solid #fff;
+  background: #fff;
+  border:2px solid #fff;
 }
 .flexslider .flex-control-paging li a {
-	background: transparent;
-	border:2px solid rgba(255,255,255,0.5);
+  background: transparent;
+  border:2px solid rgba(255,255,255,0.5);
 }
 .flexslider .flex-control-nav {
-	background:transparent;
+  background:transparent;
 }
 .flexslider h1 {
-	color:#fff;
-	background-color:#C2824F;
+  color:#fff;
+  background-color:$main-color;
 }
 .flexslider h2 {
-	color:#fff;
-	background-color:#333;
+  color:#fff;
+  background-color:#333;
 }
 .flexslider .caption p {
-	background-color:#fff;
-	color:#555
+  background-color:#fff;
+  color:#555
 }
 
 /*** flexHome ***/
 #flexHome  h1 {	color:#fff;
-	background:none;
-	}
+  background:none;
+  }
 #flexHome  h2 {	color:#fff;
-	background:none;
+  background:none;
 }
 
 /*** END FLEX SLIDER ***/
@@ -260,20 +260,20 @@ p.credits a {
 ================================================== */
 
 nav#filter a {
-	background-color: #EEE;
-	color:#555;
+  background-color: #EEE;
+  color:#555;
 }
 nav#filter a:hover, nav#filter a.current {
-	background-color: #C2824F;
-	color:#fff;
+  background-color: $main-color;
+  color:#fff;
 }
 li.filterTitle {
-	color:#4F6266;
+  color:#4F6266;
 }
 section#projectDescription {
-	background-color:#F8F8F8
+  background-color:#F8F8F8
 }
-.mask{background-color: #C2824F;}
+.mask{background-color: $main-color;}
 /* END PORTFOLIO
 ================================================== */
 
@@ -284,56 +284,56 @@ section#projectDescription {
 
 /*** pricing table ***/
 .pricingBloc {
-	background-color:#fff;
-	border:1px solid rgba(0, 0, 0, 0.2);
+  background-color:#fff;
+  border:1px solid rgba(0, 0, 0, 0.2);
 
 }
 .pricingBloc ul li {
-	border-bottom:1px solid #ddd;
-	color:#444!important;
+  border-bottom:1px solid #ddd;
+  color:#444!important;
 }
 .pricingBloc ul li:last-child {
-	border-bottom:none;
+  border-bottom:none;
 }
 .pricingBloc h2 {
-	background-color:#555;
-	color:#888!important;
-	border:none;
+  background-color:#555;
+  color:#888!important;
+  border:none;
 }
 .pricingBloc h3 {
-	background-color:#777;
-	color:#fff!important;
+  background-color:#777;
+  color:#fff!important;
 
 }
 .pricingBloc p {
-	background-color:#eee;
-	color:#444!important;
+  background-color:#eee;
+  color:#444!important;
 }
 .pricingBloc.focusPlan {
-	margin-top:0;
-	border-color:#D1D1D1;
+  margin-top:0;
+  border-color:#D1D1D1;
 }
 .pricingBloc.focusPlan h2{
-	background-color:#333;
-	color:#fff!important;
+  background-color:#333;
+  color:#fff!important;
 }
 .pricingBloc.focusPlan h3 {
-	background-color:#C2824F;
-	padding:1.25em;
-	color:#fff!important;
+  background-color:$main-color;
+  padding:1.25em;
+  color:#fff!important;
 }
 
 /*** Form ***/
 .form-control:focus{
-	border: none;
-	background-color:#ddd;
-	box-shadow:none;
-	-webkit-box-shadow:none;
-	-moz-box-shadow:none;
+  border: none;
+  background-color:#ddd;
+  box-shadow:none;
+  -webkit-box-shadow:none;
+  -moz-box-shadow:none;
 }
 .form-control {
-	color: #444;
-	background-color:#ededed;
+  color: #444;
+  background-color:#ededed;
     border:none;
 }
 .error {color: #B94A48;
@@ -354,11 +354,11 @@ border:none}
 
 /*** Feature box **/
 
-.boxFeature i{color:#C2824F;} 
+.boxFeature i{color:$main-color;}
 
 /*** slices ***/
 .slice{
-	background-color:#fff;
+  background-color:#fff;
 }
 
 /*** call to action ***/
@@ -366,39 +366,39 @@ border:none}
 .ctaBoxFullwidth{border:none}
 
 .ctaBox blockquote {
-	color:#fff;
+  color:#fff;
 }
 
 /*color1*/
 .color1, .slice.color1, .bulle.color1, .ctaBox.color1{
-	background-color:#F7F7F7;
-	color:#444;
+  background-color:#F7F7F7;
+  color:#444;
 }
 
 .color1 h1, .color1 h2, .color1 h3, .color1 h4, .color1 blockquote, .color1 a{
-	color:#444;
+  color:#444;
 }
 .color1 a.btn{color:#fff;}
-.color1 a.btn:hover{color:#C2824F;}
+.color1 a.btn:hover{color:$main-color;}
 
 /*color4*/
 .color4, .slice.color4, .bulle.color4, .ctaBox.color4{
-	background-color:#C2824F;
-	color:#fff;
+  background-color:$main-color;
+  color:#fff;
 }
 
 .color4 h1, .color4 h2, .color4 h3, .color4 h4, .color4 blockquote, .color4 a {
-	color:#fff;
-}
-.color4 h2.subTitle:after, .color4 h1.noSubtitle:after {
-	background:#fff;
+  color:#fff;
 }
 
+.color4 h2.subTitle:after, .color4 h1.noSubtitle:after {
+  background:#fff;
+}
 /*** icons ***/
-.iconRounded {border:2px solid #C2824F;color:#C2824F;background-color:#fff;}
-.iconRounded:hover, .color1 .iconRounded:hover{background-color:#C2824F;color:#fff;}
-.color1 .iconRounded {color:#C2824F;}
-.color4 .iconRounded {background-color:#FFF;color:#C2824F;}
+.iconRounded {border:2px solid $main-color;color:$main-color;background-color:#fff;}
+.iconRounded:hover, .color1 .iconRounded:hover{background-color:$main-color;color:#fff;}
+.color1 .iconRounded {color:$main-color;}
+.color4 .iconRounded {background-color:#FFF;color:$main-color;}
 
 /* END NEKO CSS FRAMEWORK
 ================================================== */
