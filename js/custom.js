@@ -19,16 +19,9 @@ $(document).ready(function() {
     '<div class="styleSwitcher">' +
     '<a href="#" id="showHideSwitcher"><i class="icon-cog"></i></a>' +
     '<h1>style switcher</h1><ul class="switcher">' +
-    '<li><a href="css/orange.css" style="background:#F86D18">Orange</a></li>' +
-    '<li><a href="css/yellow.css" style="background:#FFCC00">Yellow</a></li>' +
-    '<li><a href="css/sea-green.css" style="background:#3CB6B6">Sea green</a></li>' +
-    '<li><a href="css/green.css" style="background:#A4C618">Green</a></li>' +
-    '<li><a href="css/blue.css" style="background:#136597">Dark blue</a></li>' +
-    '<li><a href="css/light.css" style="background:#44BCDD">Light blue</a></li>' +
-    '<li><a href="css/pink.css" style="background:#F897F5">Pink</a></li>' +
-    '<li><a href="css/coffee.css" style="background:#A38757">Coffee</a></li>' +
-    '<li><a href="css/red.css" style="background:#E44832">Red</a></li>' +
-    '<li><a href="css/purple.css" style="background:#C44AD0">Purple</a></li>' +
+    '<li><a href="css/color-1.css" style="background:#F86D18">Option 1</a></li>' +
+    '<li><a href="css/color-2.css" style="background:#FFCC00">Option 2</a></li>' +
+    '<li><a href="css/color-3.css" style="background:#3CB6B6">Option 3</a></li>' +
     '</ul>' +
     /*'<ul class="switcher dark">' +
     '<li><a href="css/dark-orange.css" style="background:#F86D18">Dark Orange</a></li>' +
