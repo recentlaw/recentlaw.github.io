@@ -53,5 +53,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (= 1.4.3)
+  jekyll
   jekyll-sass
