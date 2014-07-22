@@ -39,7 +39,7 @@
 
 body {
   color:#777;
-  background: #fff;
+  background: $background-color;
 }
 
 blockquote small {
@@ -78,6 +78,9 @@ h2.subTitle:after, h1.noSubtitle:after{
 }
 #paralaxSlice4 {
   background-image: $paralax-slice-4;
+}
+#paralaxSlice5 {
+  background-image: $paralax-slice-5;
 }
 .paralaxText blockquote, .paralaxText h1, .paralaxText h2, .paralaxText h3, .paralaxText p, .paralaxText i{
   color:#fff;
@@ -358,7 +361,7 @@ border:none}
 
 /*** slices ***/
 .slice{
-  background-color:#fff;
+  background-color:$background-color;
 }
 
 /*** call to action ***/

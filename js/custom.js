@@ -19,9 +19,10 @@ $(document).ready(function() {
     '<div class="styleSwitcher">' +
     '<a href="#" id="showHideSwitcher"><i class="icon-cog"></i></a>' +
     '<h1>style switcher</h1><ul class="switcher">' +
-    '<li><a href="css/color-1.css" style="background:#F86D18">Option 1</a></li>' +
-    '<li><a href="css/color-2.css" style="background:#FFCC00">Option 2</a></li>' +
-    '<li><a href="css/color-3.css" style="background:#3CB6B6">Option 3</a></li>' +
+    '<li><a href="css/color-1.css" style="background:#95C02A">Option 1</a></li>' +
+    '<li><a href="css/color-2.css" style="background:#74A722">Option 2</a></li>' +
+    '<li><a href="css/color-3.css" style="background:#D8EFFB">Option 3</a></li>' +
+    '<li><a href="css/color-4.css" style="background:#003399">Option 3</a></li>' +
     '</ul>' +
     /*'<ul class="switcher dark">' +
     '<li><a href="css/dark-orange.css" style="background:#F86D18">Dark Orange</a></li>' +
