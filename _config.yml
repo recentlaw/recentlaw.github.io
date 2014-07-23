@@ -5,3 +5,4 @@ gems: [jekyll-sass]
 sass:
     style: expanded
     deploy_style: compressed
+    compile_in_place: true
