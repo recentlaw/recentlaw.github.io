@@ -1,1 +1,581 @@
-.panel-default>.panel-heading{background:#b0cad9}.panel-default>.panel-heading:hover{background:#fff}.panel-default>.panel-heading:hover a{color:#b0cad9}.panel-title>a{color:#fff}.panel-title>a:hover{text-decoration:none}body{color:#777;background:#d8effb}blockquote small{color:inherit}h1,h2,h3,h4,h5,h6{color:#222}h2{color:#888}h2 i{color:#999}h2.subTitle:after,h1.noSubtitle:after{background-color:#b0cad9}.paralaxText blockquote:before,.paralaxText blockquote:after{color:#fff}#home,#paralaxSlice1,#paralaxSlice2,#paralaxSlice3,#paralaxSlice4{background-color:#b0cad9}#home{background-image:url("../images/theme-pics/paralax-sea-green-3.jpg")}#paralaxSlice1{background-image:url("../images/theme-pics/chicago_river_paralax.jpg")}#paralaxSlice2{background-image:url("../images/theme-pics/paralax-grey-2.jpg")}#paralaxSlice3{background-image:url("../images/theme-pics/paralax-grey-3.jpg")}#paralaxSlice4{background-image:url("../images/theme-pics/chicago_blur_paralax.jpg")}#paralaxSlice5{background-image:url("../images/theme-pics/lyon_paralax.jpg")}.paralaxText blockquote,.paralaxText h1,.paralaxText h2,.paralaxText h3,.paralaxText p,.paralaxText i{color:#fff}a{color:#b0cad9}a:hover,.scrollspyNav .active a{color:#b0cad9}ul.iconsList li a{color:#555}ul.iconsList li a:hover,ul.iconsList i{color:#b0cad9}.btn{background:#b0cad9;color:#fff;border:2px solid #fff}.btn:hover{color:#b0cad9;border-color:#eee;text-shadow:none;background:#fff}.btn-primary{background:#006dcc}.btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.btn-primary.disabled,.btn-primary[disabled]{background:#555}.btn-info{background:#49AFCD}.btn-success{background:#5BB75B}.btn-warning{background:#FAA732}.btn-danger{background:#DA4F49}.btn-link,.btn-link:active,.btn-link[disabled],.btn-link:hover{background:none;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;color:#49AFCD}.btnWrapper{border:1px solid #ccc}#mainHeader{background-color:white;-webkit-box-shadow:0 1px 10px rgba(0,0,0,0.1);-moz-box-shadow:0 1px 10px rgba(0,0,0,0.1);box-shadow:0 1px 10px rgba(0,0,0,0.1)}#mainHeader .navbar-inner{background:#444;filter:none !important}#mainMenu ul li a,#resMainMenu ul li a{color:#444}.navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>li>a:hover,.navbar-default .navbar-nav>li>a:focus,.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus{background:#b0cad9;color:#fff}footer{color:#777;background:#eee;border-top:1px solid #555 s}#footerRights{background-color:#fff;color:#999}p.credits{color:#555}p.credits a{color:#b0cad9}#home h1{color:#FFFFFF}.flexslider{box-shadow:none}.slides .txt div{background:#444;color:#FFFFFF}.flexslider .flex-direction-nav a{background-color:#b0cad9}.flexslider .flex-control-paging li a:hover,#sliderWrapper .flex-control-paging li a.flex-active{background:#fff;border:2px solid #fff}.flexslider .flex-control-paging li a{background:transparent;border:2px solid rgba(255,255,255,0.5)}.flexslider .flex-control-nav{background:transparent}.flexslider h1{color:#fff;background-color:#b0cad9}.flexslider h2{color:#fff;background-color:#333}.flexslider .caption p{background-color:#fff;color:#555}#flexHome h1{color:#fff;background:none}#flexHome h2{color:#fff;background:none}nav#filter a{background-color:#EEE;color:#555}nav#filter a:hover,nav#filter a.current{background-color:#b0cad9;color:#fff}li.filterTitle{color:#4F6266}section#projectDescription{background-color:#f8f8f8}.mask{background-color:#b0cad9}.iconLinks a span{color:#fff}.pricingBloc{background-color:#fff;border:1px solid rgba(0,0,0,0.2)}.pricingBloc ul li{border-bottom:1px solid #ddd;color:#444 !important}.pricingBloc ul li:last-child{border-bottom:none}.pricingBloc h2{background-color:#555;color:#888 !important;border:none}.pricingBloc h3{background-color:#777;color:#fff !important}.pricingBloc p{background-color:#eee;color:#444 !important}.pricingBloc.focusPlan{margin-top:0;border-color:#D1D1D1}.pricingBloc.focusPlan h2{background-color:#333;color:#fff !important}.pricingBloc.focusPlan h3{background-color:#b0cad9;padding:1.25em;color:#fff !important}.form-control:focus{border:none;background-color:#ddd;box-shadow:none;-webkit-box-shadow:none;-moz-box-shadow:none}.form-control{color:#444;background-color:#ededed;border:none}.error{color:#B94A48;background-color:#F2DEDE;border-color:#EED3D7}label.error{color:#fff;background-color:#B94A48;border:none}#projectQuote,#projectQuote h3{background:#ddd;color:#444}.boxFeature i{color:#b0cad9}.slice{background-color:#d8effb}.ctaBox{border:2px solid rgba(0,0,0,0.05)}.ctaBoxFullwidth{border:none}.ctaBox blockquote{color:#fff}.color1,.slice.color1,.bulle.color1,.ctaBox.color1{background-color:#F7F7F7;color:#444}.color1 h1,.color1 h2,.color1 h3,.color1 h4,.color1 blockquote,.color1 a{color:#444}.color1 a.btn{color:#fff}.color1 a.btn:hover{color:#b0cad9}.color4,.slice.color4,.bulle.color4,.ctaBox.color4{background-color:#b0cad9;color:#fff}.color4 h1,.color4 h2,.color4 h3,.color4 h4,.color4 blockquote,.color4 a{color:#fff}.color4 h2.subTitle:after,.color4 h1.noSubtitle:after{background:#fff}.iconRounded{border:2px solid #b0cad9;color:#b0cad9;background-color:#fff}.iconRounded:hover,.color1 .iconRounded:hover{background-color:#b0cad9;color:#fff}.color1 .iconRounded{color:#b0cad9}.color4 .iconRounded{background-color:#FFF;color:#b0cad9}
+/*
+    Document   : colors
+    Author     : Little Neko
+    Description: template colors
+*/
+/* Table of Content
+==================================================
+
+#BOOSTRAP CUSTOMIZATION
+#TYPOGRAPHY
+#LINKS AND BUTTONS
+#HEADER
+#MAIN MENU
+#FOOTER
+#SLIDERS
+#PORTFOLIO
+#MISCELANIOUS
+#NEKO CSS FRAMEWORK
+
+*/
+/* BOOSTRAP CUSTOMIZATION
+================================================== */
+/** tabs **/
+/* line 28, /Users/neshmi/code/recentlaw/css/_design.scss */
+.panel-default > .panel-heading {
+  background: #b0cad9;
+}
+
+/* line 29, /Users/neshmi/code/recentlaw/css/_design.scss */
+.panel-default > .panel-heading:hover {
+  background: #fff;
+}
+
+/* line 30, /Users/neshmi/code/recentlaw/css/_design.scss */
+.panel-default > .panel-heading:hover a {
+  color: #b0cad9;
+}
+
+/* line 31, /Users/neshmi/code/recentlaw/css/_design.scss */
+.panel-title > a {
+  color: #fff;
+}
+
+/* line 32, /Users/neshmi/code/recentlaw/css/_design.scss */
+.panel-title > a:hover {
+  text-decoration: none;
+}
+
+/* END BOOSTRAP CUSTOMIZATION
+================================================== */
+/* TYPOGRAPHY
+================================================== */
+/* line 40, /Users/neshmi/code/recentlaw/css/_design.scss */
+body {
+  color: #777;
+  background: #d8effb;
+}
+
+/* line 45, /Users/neshmi/code/recentlaw/css/_design.scss */
+blockquote small {
+  color: inherit;
+}
+
+/* line 48, /Users/neshmi/code/recentlaw/css/_design.scss */
+h1, h2, h3, h4, h5, h6 {
+  color: #222;
+}
+
+/* line 51, /Users/neshmi/code/recentlaw/css/_design.scss */
+h2 {
+  color: #888;
+}
+
+/* line 54, /Users/neshmi/code/recentlaw/css/_design.scss */
+h2 i {
+  color: #999;
+}
+
+/* line 55, /Users/neshmi/code/recentlaw/css/_design.scss */
+h2.subTitle:after, h1.noSubtitle:after {
+  background-color: #b0cad9;
+}
+
+/*** parallax sections ***/
+/* line 61, /Users/neshmi/code/recentlaw/css/_design.scss */
+.paralaxText blockquote:before, .paralaxText blockquote:after {
+  color: #fff;
+}
+
+/* line 64, /Users/neshmi/code/recentlaw/css/_design.scss */
+#home, #paralaxSlice1, #paralaxSlice2, #paralaxSlice3, #paralaxSlice4 {
+  background-color: #b0cad9;
+}
+
+/* line 67, /Users/neshmi/code/recentlaw/css/_design.scss */
+#home {
+  background-image: url("../images/theme-pics/paralax-sea-green-3.jpg");
+}
+
+/* line 70, /Users/neshmi/code/recentlaw/css/_design.scss */
+#paralaxSlice1 {
+  background-image: url("../images/theme-pics/chicago_river_paralax.jpg");
+}
+
+/* line 73, /Users/neshmi/code/recentlaw/css/_design.scss */
+#paralaxSlice2 {
+  background-image: url("../images/theme-pics/paralax-grey-2.jpg");
+}
+
+/* line 76, /Users/neshmi/code/recentlaw/css/_design.scss */
+#paralaxSlice3 {
+  background-image: url("../images/theme-pics/paralax-grey-3.jpg");
+}
+
+/* line 79, /Users/neshmi/code/recentlaw/css/_design.scss */
+#paralaxSlice4 {
+  background-image: url("../images/theme-pics/chicago_blur_paralax.jpg");
+}
+
+/* line 82, /Users/neshmi/code/recentlaw/css/_design.scss */
+#paralaxSlice5 {
+  background-image: url("../images/theme-pics/lyon_paralax.jpg");
+}
+
+/* line 85, /Users/neshmi/code/recentlaw/css/_design.scss */
+.paralaxText blockquote, .paralaxText h1, .paralaxText h2, .paralaxText h3, .paralaxText p, .paralaxText i {
+  color: #fff;
+}
+
+/* END TYPOGRAPHY
+================================================== */
+/* LINKS AND BUTTONS
+================================================== */
+/* line 95, /Users/neshmi/code/recentlaw/css/_design.scss */
+a {
+  color: #b0cad9;
+}
+
+/* line 98, /Users/neshmi/code/recentlaw/css/_design.scss */
+a:hover, .scrollspyNav .active a {
+  color: #b0cad9;
+}
+
+/* line 101, /Users/neshmi/code/recentlaw/css/_design.scss */
+ul.iconsList li a {
+  color: #555555;
+}
+
+/* line 104, /Users/neshmi/code/recentlaw/css/_design.scss */
+ul.iconsList li a:hover, ul.iconsList i {
+  color: #b0cad9;
+}
+
+/*** buttons ***/
+/* line 109, /Users/neshmi/code/recentlaw/css/_design.scss */
+.btn {
+  background: #b0cad9;
+  color: #fff;
+  border: 2px solid #fff;
+}
+
+/* line 114, /Users/neshmi/code/recentlaw/css/_design.scss */
+.btn:hover {
+  color: #b0cad9;
+  border-color: #eee;
+  text-shadow: none;
+  background: white;
+}
+
+/* line 120, /Users/neshmi/code/recentlaw/css/_design.scss */
+.btn-primary {
+  background: #006dcc;
+}
+
+/* line 123, /Users/neshmi/code/recentlaw/css/_design.scss */
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary.disabled, .btn-primary[disabled] {
+  background: #555;
+}
+
+/* line 126, /Users/neshmi/code/recentlaw/css/_design.scss */
+.btn-info {
+  background: #49AFCD;
+}
+
+/* line 129, /Users/neshmi/code/recentlaw/css/_design.scss */
+.btn-success {
+  background: #5BB75B;
+}
+
+/* line 132, /Users/neshmi/code/recentlaw/css/_design.scss */
+.btn-warning {
+  background: #FAA732;
+}
+
+/* line 135, /Users/neshmi/code/recentlaw/css/_design.scss */
+.btn-danger {
+  background: #DA4F49;
+}
+
+/* line 138, /Users/neshmi/code/recentlaw/css/_design.scss */
+.btn-link, .btn-link:active, .btn-link[disabled], .btn-link:hover {
+  background: none;
+  border: none;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  color: #49AFCD;
+}
+
+/* line 146, /Users/neshmi/code/recentlaw/css/_design.scss */
+.btnWrapper {
+  border: 1px solid #ccc;
+}
+
+/* END LINKS AND BUTTONS
+================================================== */
+/* MAIN MENU
+================================================== */
+/* line 156, /Users/neshmi/code/recentlaw/css/_design.scss */
+#mainHeader {
+  background-color: white;
+  -webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* line 163, /Users/neshmi/code/recentlaw/css/_design.scss */
+#mainHeader .navbar-inner {
+  background: #444;
+  filter: none !important;
+}
+
+/* line 167, /Users/neshmi/code/recentlaw/css/_design.scss */
+#mainMenu ul li a, #resMainMenu ul li a {
+  color: #444;
+}
+
+/* line 170, /Users/neshmi/code/recentlaw/css/_design.scss */
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  background: #b0cad9;
+  color: #fff;
+}
+
+/* END MAIN MENU
+================================================== */
+/* FOOTER
+================================================== */
+/* line 181, /Users/neshmi/code/recentlaw/css/_design.scss */
+footer {
+  color: #777;
+  background: #eee;
+  border-top: 1px solid #555555 s;
+}
+
+/* line 187, /Users/neshmi/code/recentlaw/css/_design.scss */
+#footerRights {
+  background-color: #fff;
+  color: #999;
+}
+
+/* line 191, /Users/neshmi/code/recentlaw/css/_design.scss */
+p.credits {
+  color: #555;
+}
+
+/* line 194, /Users/neshmi/code/recentlaw/css/_design.scss */
+p.credits a {
+  color: #b0cad9;
+}
+
+/* END FOOTER
+================================================== */
+/* HOME
+================================================== */
+/* line 204, /Users/neshmi/code/recentlaw/css/_design.scss */
+#home h1 {
+  color: #FFFFFF;
+}
+
+/* END HOME
+================================================== */
+/* SLIDERS
+================================================== */
+/*** FLEX ***/
+/* line 214, /Users/neshmi/code/recentlaw/css/_design.scss */
+.flexslider {
+  box-shadow: none;
+}
+
+/* line 217, /Users/neshmi/code/recentlaw/css/_design.scss */
+.slides .txt div {
+  background: #444;
+  color: #FFFFFF;
+}
+
+/* line 221, /Users/neshmi/code/recentlaw/css/_design.scss */
+.flexslider .flex-direction-nav a {
+  background-color: #b0cad9;
+}
+
+/* line 225, /Users/neshmi/code/recentlaw/css/_design.scss */
+.flexslider .flex-control-paging li a:hover, #sliderWrapper .flex-control-paging li a.flex-active {
+  background: #fff;
+  border: 2px solid #fff;
+}
+
+/* line 229, /Users/neshmi/code/recentlaw/css/_design.scss */
+.flexslider .flex-control-paging li a {
+  background: transparent;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+}
+
+/* line 233, /Users/neshmi/code/recentlaw/css/_design.scss */
+.flexslider .flex-control-nav {
+  background: transparent;
+}
+
+/* line 236, /Users/neshmi/code/recentlaw/css/_design.scss */
+.flexslider h1 {
+  color: #fff;
+  background-color: #b0cad9;
+}
+
+/* line 240, /Users/neshmi/code/recentlaw/css/_design.scss */
+.flexslider h2 {
+  color: #fff;
+  background-color: #333;
+}
+
+/* line 244, /Users/neshmi/code/recentlaw/css/_design.scss */
+.flexslider .caption p {
+  background-color: #fff;
+  color: #555555;
+}
+
+/*** flexHome ***/
+/* line 250, /Users/neshmi/code/recentlaw/css/_design.scss */
+#flexHome h1 {
+  color: #fff;
+  background: none;
+}
+
+/* line 253, /Users/neshmi/code/recentlaw/css/_design.scss */
+#flexHome h2 {
+  color: #fff;
+  background: none;
+}
+
+/*** END FLEX SLIDER ***/
+/* END SLIDERS
+================================================== */
+/* PORTFOLIO
+================================================== */
+/* line 265, /Users/neshmi/code/recentlaw/css/_design.scss */
+nav#filter a {
+  background-color: #EEE;
+  color: #555;
+}
+
+/* line 269, /Users/neshmi/code/recentlaw/css/_design.scss */
+nav#filter a:hover, nav#filter a.current {
+  background-color: #b0cad9;
+  color: #fff;
+}
+
+/* line 273, /Users/neshmi/code/recentlaw/css/_design.scss */
+li.filterTitle {
+  color: #4F6266;
+}
+
+/* line 276, /Users/neshmi/code/recentlaw/css/_design.scss */
+section#projectDescription {
+  background-color: #f8f8f8;
+}
+
+/* line 279, /Users/neshmi/code/recentlaw/css/_design.scss */
+.mask {
+  background-color: #b0cad9;
+}
+
+/* END PORTFOLIO
+================================================== */
+/* MISCELANIOUS
+================================================== */
+/*** hover images ***/
+/* line 286, /Users/neshmi/code/recentlaw/css/_design.scss */
+.iconLinks a span {
+  color: #fff;
+}
+
+/*** pricing table ***/
+/* line 289, /Users/neshmi/code/recentlaw/css/_design.scss */
+.pricingBloc {
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+/* line 294, /Users/neshmi/code/recentlaw/css/_design.scss */
+.pricingBloc ul li {
+  border-bottom: 1px solid #ddd;
+  color: #444444 !important;
+}
+
+/* line 298, /Users/neshmi/code/recentlaw/css/_design.scss */
+.pricingBloc ul li:last-child {
+  border-bottom: none;
+}
+
+/* line 301, /Users/neshmi/code/recentlaw/css/_design.scss */
+.pricingBloc h2 {
+  background-color: #555;
+  color: #888888 !important;
+  border: none;
+}
+
+/* line 306, /Users/neshmi/code/recentlaw/css/_design.scss */
+.pricingBloc h3 {
+  background-color: #777;
+  color: white !important;
+}
+
+/* line 311, /Users/neshmi/code/recentlaw/css/_design.scss */
+.pricingBloc p {
+  background-color: #eee;
+  color: #444444 !important;
+}
+
+/* line 315, /Users/neshmi/code/recentlaw/css/_design.scss */
+.pricingBloc.focusPlan {
+  margin-top: 0;
+  border-color: #D1D1D1;
+}
+
+/* line 319, /Users/neshmi/code/recentlaw/css/_design.scss */
+.pricingBloc.focusPlan h2 {
+  background-color: #333;
+  color: white !important;
+}
+
+/* line 323, /Users/neshmi/code/recentlaw/css/_design.scss */
+.pricingBloc.focusPlan h3 {
+  background-color: #b0cad9;
+  padding: 1.25em;
+  color: white !important;
+}
+
+/*** Form ***/
+/* line 330, /Users/neshmi/code/recentlaw/css/_design.scss */
+.form-control:focus {
+  border: none;
+  background-color: #ddd;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+}
+
+/* line 337, /Users/neshmi/code/recentlaw/css/_design.scss */
+.form-control {
+  color: #444;
+  background-color: #ededed;
+  border: none;
+}
+
+/* line 342, /Users/neshmi/code/recentlaw/css/_design.scss */
+.error {
+  color: #B94A48;
+  background-color: #F2DEDE;
+  border-color: #EED3D7;
+}
+
+/* line 346, /Users/neshmi/code/recentlaw/css/_design.scss */
+label.error {
+  color: #fff;
+  background-color: #B94A48;
+  border: none;
+}
+
+/* line 350, /Users/neshmi/code/recentlaw/css/_design.scss */
+#projectQuote, #projectQuote h3 {
+  background: #ddd;
+  color: #444;
+}
+
+/* END MISCELANIOUS
+================================================== */
+/* NEKO CSS FRAMEWORK
+================================================== */
+/*** Feature box **/
+/* line 360, /Users/neshmi/code/recentlaw/css/_design.scss */
+.boxFeature i {
+  color: #b0cad9;
+}
+
+/*** slices ***/
+/* line 363, /Users/neshmi/code/recentlaw/css/_design.scss */
+.slice {
+  background-color: #d8effb;
+}
+
+/*** call to action ***/
+/* line 368, /Users/neshmi/code/recentlaw/css/_design.scss */
+.ctaBox {
+  border: 2px solid rgba(0, 0, 0, 0.05);
+}
+
+/* line 369, /Users/neshmi/code/recentlaw/css/_design.scss */
+.ctaBoxFullwidth {
+  border: none;
+}
+
+/* line 371, /Users/neshmi/code/recentlaw/css/_design.scss */
+.ctaBox blockquote {
+  color: #fff;
+}
+
+/*color1*/
+/* line 376, /Users/neshmi/code/recentlaw/css/_design.scss */
+.color1, .slice.color1, .bulle.color1, .ctaBox.color1 {
+  background-color: #F7F7F7;
+  color: #444;
+}
+
+/* line 381, /Users/neshmi/code/recentlaw/css/_design.scss */
+.color1 h1, .color1 h2, .color1 h3, .color1 h4, .color1 blockquote, .color1 a {
+  color: #444;
+}
+
+/* line 384, /Users/neshmi/code/recentlaw/css/_design.scss */
+.color1 a.btn {
+  color: #fff;
+}
+
+/* line 385, /Users/neshmi/code/recentlaw/css/_design.scss */
+.color1 a.btn:hover {
+  color: #b0cad9;
+}
+
+/*color4*/
+/* line 388, /Users/neshmi/code/recentlaw/css/_design.scss */
+.color4, .slice.color4, .bulle.color4, .ctaBox.color4 {
+  background-color: #b0cad9;
+  color: #fff;
+}
+
+/* line 393, /Users/neshmi/code/recentlaw/css/_design.scss */
+.color4 h1, .color4 h2, .color4 h3, .color4 h4, .color4 blockquote, .color4 a {
+  color: #fff;
+}
+
+/* line 397, /Users/neshmi/code/recentlaw/css/_design.scss */
+.color4 h2.subTitle:after, .color4 h1.noSubtitle:after {
+  background: #fff;
+}
+
+/*** icons ***/
+/* line 401, /Users/neshmi/code/recentlaw/css/_design.scss */
+.iconRounded {
+  border: 2px solid #b0cad9;
+  color: #b0cad9;
+  background-color: #fff;
+}
+
+/* line 402, /Users/neshmi/code/recentlaw/css/_design.scss */
+.iconRounded:hover, .color1 .iconRounded:hover {
+  background-color: #b0cad9;
+  color: #fff;
+}
+
+/* line 403, /Users/neshmi/code/recentlaw/css/_design.scss */
+.color1 .iconRounded {
+  color: #b0cad9;
+}
+
+/* line 404, /Users/neshmi/code/recentlaw/css/_design.scss */
+.color4 .iconRounded {
+  background-color: #FFF;
+  color: #b0cad9;
+}
+
+/* END NEKO CSS FRAMEWORK
+================================================== */

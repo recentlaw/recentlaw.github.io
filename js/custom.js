@@ -19,23 +19,11 @@ $(document).ready(function() {
     '<div class="styleSwitcher">' +
     '<a href="#" id="showHideSwitcher"><i class="icon-cog"></i></a>' +
     '<h1>style switcher</h1><ul class="switcher">' +
-    '<li><a href="css/color-1.css" style="background:#95C02A">Option 1</a></li>' +
-    '<li><a href="css/color-2.css" style="background:#74A722">Option 2</a></li>' +
+    '<li><a href="css/color-1.css" style="background:#95C02A" logo="images/rc_logo_color_1.png">Option 1</a></li>' +
+    '<li><a href="css/color-2.css" style="background:#74A722" logo="images/rc_logo_color_2.gif">Option 2</a></li>' +
     '<li><a href="css/color-3.css" style="background:#D8EFFB">Option 3</a></li>' +
     '<li><a href="css/color-4.css" style="background:#003399">Option 3</a></li>' +
     '</ul>' +
-    /*'<ul class="switcher dark">' +
-    '<li><a href="css/dark-orange.css" style="background:#F86D18">Dark Orange</a></li>' +
-    '<li><a href="css/dark-yellow.css" style="background:#FFCC00">Dark Yellow</a></li>' +
-    '<li><a href="css/dark-sea-green.css" style="background:#3CB6B6">Dark Sea green</a></li>' +
-    '<li><a href="css/dark-green.css" style="background:#A4C618">Dark Green</a></li>' +
-    '<li><a href="css/dark-blue.css" style="background:#136597">Dark Dark blue</a></li>' +
-    '<li><a href="css/dark-light.css" style="background:#44BCDD">Dark Light blue</a></li>' +
-    '<li><a href="css/dark-pink.css" style="background:#F897F5">Dark Pink</a></li>' +
-    '<li><a href="css/dark-coffee.css" style="background:#A38757">Dark Coffee</a></li>' +
-    '<li><a href="css/dark-red.css" style="background:#E44832">Dark Red</a></li>' +
-    '<li><a href="css/dark-purple.css" style="background:#C44AD0">Dark Black &amp; white</a></li>' +
-    '</ul>' +*/
     '</div>';
 
     $("body").append($colorsHTML);
@@ -54,6 +42,7 @@ $(document).ready(function() {
 
         $("#colors").attr("href",$(this).attr("href"));
         $.cookie("css",$(this).attr("href"));
+        $('#logoBig img').attr('src',$(this).attr("logo"));
         return false;
     });
 

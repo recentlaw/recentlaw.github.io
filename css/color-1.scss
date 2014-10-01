@@ -1,7 +1,7 @@
-$main-color: #88AF19;
-$background-color: #F0F5CF;
-$main-text-color: #95C02A;
-$generic-text-color: #DFDFCB;
+$main-color: #CACB98;
+$background-color: #fff;
+$main-text-color: #2A3A27;
+$generic-text-color: #CACB98;
 $generic-text-accent-color: #fff;
 
 $home-image: url('../images/theme-pics/paralax-sea-green-3.jpg');
@@ -10,5 +10,6 @@ $paralax-slice-2: url('../images/theme-pics/paralax-grey-2.jpg');
 $paralax-slice-3: url('../images/theme-pics/paralax-grey-3.jpg');
 $paralax-slice-4: url('../images/theme-pics/chicago_blur_paralax.jpg');
 $paralax-slice-5: url('../images/theme-pics/lyon_paralax.jpg');
+$logo: url('../images/rc_logo_1.png');
 
 @import 'design';
