@@ -6,4 +6,4 @@ sass:
     style: expanded
     deploy_style: compressed
     compile_in_place: true
-exclude: [PSDs]
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
