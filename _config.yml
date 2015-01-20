@@ -1,7 +1,7 @@
 name: Recent-Law
 markdown: redcarpet
 highlighter: pygments
-gems: [jekyll-sass]
+gems: [jekyll-sass,jekyll-haml]
 sass:
     style: expanded
     deploy_style: compressed
