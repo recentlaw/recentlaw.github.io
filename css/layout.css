@@ -833,6 +833,8 @@ header#project{padding:22px 0;}
 
 /*** END MEDIA QUERIES ***/
 
+#additional_comments { display: none} /* Hide Spam Honeypot from normal users */
+
 /* END FORM
 ================================================== */
 
