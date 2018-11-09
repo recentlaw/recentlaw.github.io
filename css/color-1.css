@@ -23,7 +23,7 @@
 /** tabs **/
 /* line 28, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 .panel-default > .panel-heading {
-  background: #CACB98;
+  background: #949599;
 }
 
 /* line 29, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
@@ -33,7 +33,7 @@
 
 /* line 30, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 .panel-default > .panel-heading:hover a {
-  color: #CACB98;
+  color: #949599;
 }
 
 /* line 31, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
@@ -78,7 +78,7 @@ h2 i {
 
 /* line 55, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 h2.subTitle:after, h1.noSubtitle:after {
-  background-color: #CACB98;
+  background-color: #949599;
 }
 
 /*** parallax sections ***/
@@ -89,7 +89,7 @@ h2.subTitle:after, h1.noSubtitle:after {
 
 /* line 64, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 #home, #paralaxSlice1, #paralaxSlice2, #paralaxSlice3, #paralaxSlice4 {
-  background-color: #CACB98;
+  background-color: #949599;
 }
 
 /* line 67, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
@@ -133,12 +133,12 @@ h2.subTitle:after, h1.noSubtitle:after {
 ================================================== */
 /* line 95, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 a {
-  color: #CACB98;
+  color: #949599;
 }
 
 /* line 98, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 a:hover, .scrollspyNav .active a {
-  color: #CACB98;
+  color: #949599;
 }
 
 /* line 101, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
@@ -148,20 +148,20 @@ ul.iconsList li a {
 
 /* line 104, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 ul.iconsList li a:hover, ul.iconsList i {
-  color: #CACB98;
+  color: #949599;
 }
 
 /*** buttons ***/
 /* line 109, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 .btn {
-  background: #CACB98;
+  background: #949599;
   color: #fff;
   border: 2px solid #fff;
 }
 
 /* line 114, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 .btn:hover {
-  color: #CACB98;
+  color: #949599;
   border-color: #eee;
   text-shadow: none;
   background: #fff;
@@ -237,7 +237,7 @@ ul.iconsList li a:hover, ul.iconsList i {
 
 /* line 170, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-  background: #CACB98;
+  background: #949599;
   color: #fff;
 }
 
@@ -265,7 +265,7 @@ p.credits {
 
 /* line 194, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 p.credits a {
-  color: #CACB98;
+  color: #949599;
 }
 
 /* END FOOTER
@@ -295,7 +295,7 @@ p.credits a {
 
 /* line 221, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 .flexslider .flex-direction-nav a {
-  background-color: #CACB98;
+  background-color: #949599;
 }
 
 /* line 225, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
@@ -318,7 +318,7 @@ p.credits a {
 /* line 236, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 .flexslider h1 {
   color: #fff;
-  background-color: #CACB98;
+  background-color: #949599;
 }
 
 /* line 240, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
@@ -359,7 +359,7 @@ nav#filter a {
 
 /* line 269, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 nav#filter a:hover, nav#filter a.current {
-  background-color: #CACB98;
+  background-color: #949599;
   color: #fff;
 }
 
@@ -375,7 +375,7 @@ section#projectDescription {
 
 /* line 279, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 .mask {
-  background-color: #CACB98;
+  background-color: #949599;
 }
 
 /* END PORTFOLIO
@@ -439,7 +439,7 @@ section#projectDescription {
 
 /* line 323, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 .pricingBloc.focusPlan h3 {
-  background-color: #CACB98;
+  background-color: #949599;
   padding: 1.25em;
   color: #fff !important;
 }
@@ -488,7 +488,7 @@ label.error {
 /*** Feature box **/
 /* line 360, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 .boxFeature i {
-  color: #CACB98;
+  color: #949599;
 }
 
 /*** slices ***/
@@ -532,13 +532,13 @@ label.error {
 
 /* line 385, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 .color1 a.btn:hover {
-  color: #CACB98;
+  color: #949599;
 }
 
 /*color4*/
 /* line 388, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 .color4, .slice.color4, .bulle.color4, .ctaBox.color4 {
-  background-color: #CACB98;
+  background-color: #949599;
   color: #fff;
 }
 
@@ -555,26 +555,26 @@ label.error {
 /*** icons ***/
 /* line 401, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 .iconRounded {
-  border: 2px solid #CACB98;
-  color: #CACB98;
+  border: 2px solid #949599;
+  color: #949599;
   background-color: #fff;
 }
 
 /* line 402, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 .iconRounded:hover, .color1 .iconRounded:hover {
-  background-color: #CACB98;
+  background-color: #949599;
   color: #fff;
 }
 
 /* line 403, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 .color1 .iconRounded {
-  color: #CACB98;
+  color: #949599;
 }
 
 /* line 404, /Users/neshmi/work/recentlaw/recentlaw.github.io/css/_design.scss */
 .color4 .iconRounded {
   background-color: #FFF;
-  color: #CACB98;
+  color: #949599;
 }
 
 /* END NEKO CSS FRAMEWORK
