@@ -81,7 +81,7 @@ if ($errors) {
         $errortext .= '<li>'. $error . "</li>";
     }
 
-    echo '<div class="alert alert-error">The following errors occured:<br><ul>'. $errortext .'</ul></div>';
+    echo '<div class="alert alert-danger">The following errors occured:<br><ul>'. $errortext .'</ul></div>';
 
 }else{
 

@@ -7,7 +7,7 @@
 
 
 if ( !isset( $_SESSION ) ) session_start(); 
-header( "(anti-spam-content-type:) image/png" );
+header( "content-type: image/png" ); 
 
 
 $enc_num = rand( 0, 9999 );
