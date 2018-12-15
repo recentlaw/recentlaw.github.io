@@ -1,7 +1,10 @@
 name: Recent-Law
 markdown: kramdown
 highlighter: rouge
-plugins: [jekyll-sass,jekyll-haml]
+plugins:
+    - jekyll-sass
+    - jekyll-haml
+    - jekyll-minifier
 sass:
     style: expanded
     deploy_style: compressed
