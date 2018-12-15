@@ -6,7 +6,7 @@ plugins:
     - jekyll-haml
     - jekyll-minifier
 sass:
-    style: expanded
+    style: compressed
     deploy_style: compressed
     compile_in_place: true
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
