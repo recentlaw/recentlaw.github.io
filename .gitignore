@@ -3,3 +3,5 @@ _site
 css/color-2.css
 css/color-3.css
 css/color-4.css
+.sass-cache/*
+
